@@ -38,7 +38,7 @@ Note :  1. Need to install OpenSSL to run these commands below.
 Follow Step 1 and then Step 3 to generate your self signed certificate.
 
 
-# Installing the certificate and the key in the Server
+# Installing the Certificates and the Key in the Web Server
 
 1. Windows Server - Just Import the domain 'certificate.crt' file as machine user.
 2. Linux/ Mac Server - copy the 'certificate.crt' file to '/etc/ssl/certs' & 'private.key' to '/etc/ssl/private'.
